@@ -1,8 +1,8 @@
 ### Hello everyone! 👋👋👋
 
 - 😄 I'm a graduate student in _UESTC_ now
-
-
+- 😄
+- 😄
 
 
 - 🔭 I’m currently working on building a autonomous navigation system on UGV  
