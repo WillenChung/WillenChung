@@ -1,6 +1,6 @@
 ### Hello everyone! 👋👋👋
 
-- 😄 I'm a graduate student in _UESTC_ now
+- 😄 I'm a graduate student studying in _UESTC_ now
 - 😄
 - 😄
 
