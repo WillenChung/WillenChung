@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning path planning algorithms based on traversability maps
 - 📫 How to reach me: wanderc2022@gmail.com
 - 😄 welcoming you to communicate with me 
-- 😄 [sports](https://github.com/WillenChung/sports)
-- 😄 [thoughts](https://github.com/WillenChung/thoughts)
-- 😄 [music](https://github.com/WillenChung/music)
+[sports](https://github.com/WillenChung/sports)
+
+[music](https://github.com/WillenChung/music)
